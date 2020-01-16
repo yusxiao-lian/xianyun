@@ -1,5 +1,5 @@
 <template>
-  <div>首页</div>
+  <p>旅游攻略首页</p>
 </template>
 
 <script>

@@ -1,5 +1,5 @@
 <template>
-  <div>首页</div>
+  <p>登录页</p>
 </template>
 
 <script>

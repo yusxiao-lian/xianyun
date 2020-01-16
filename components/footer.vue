@@ -1,5 +1,5 @@
 <template>
-  <div>首页</div>
+  <p>公共尾部</p>
 </template>
 
 <script>
