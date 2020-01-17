@@ -34,6 +34,7 @@ export default {
   background: #fff;
   border-bottom: 1px solid #ccc;
   box-shadow: 0 3px 3px #f6f6f6;
+  min-width: 1000px;
 }
 .main {
   width: 1000px;
@@ -57,6 +58,14 @@ export default {
         color: #409eff;
       } 
     }
+    .nuxt-link-exact-active {
+      background: #409eff;
+      color: #fff;
+      &:hover {
+        color: #fff;
+      }
+    }
+
   }
 }
 </style>
